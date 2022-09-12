@@ -7,6 +7,7 @@ authors = ["Replit user <<>>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 astropy = "^5.1"
+matplotlib = "^3.5.3"
 
 [tool.poetry.dev-dependencies]
 
